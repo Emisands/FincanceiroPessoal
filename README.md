@@ -14,14 +14,6 @@ configurações do database.
 O banco de dados do programa encontra-se em sua raiz com o nome "BancodeDados.sql".
 
 
-##Senha do usuario padrão: senha
+###Senha do usuario padrão: senha
 
-
----------- ATUALIZAÇÕES: 06/02 -------------------
-
-Icone do projeto adicionado, e opção de otimização do projeto (Propriedades) ativada;
-Implementação da Unit7 'Deletar dados'; 
-Alteração no banco de dados: Nome das transações agora são unicos;
-Correção na Unit3 : Botão cancelar não estava abrindo o Form2;
-Form3, e form7: Os campos são limpos depois de uma inserção de dados;
 
